@@ -1,1 +1,4 @@
 python-coveralls
+gtts
+termcolor
+os
